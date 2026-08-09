@@ -1,35 +1,99 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
 
-<p> </p>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Fault Detection and Isolation for Mechatronic Systems**
-
-- 🌱 I’m currently learning **OpenCV, Machine Learning, and Generative AI**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/AmanRai)
-
-- 💬 Ask me about **Python, Machine Learning, and Industrial Automation**
-
-- 📫 How to reach me **amanrai2004@gmail.com**
-
-- ⚡ Fun fact **I'm passionate about learning new technologies and building impactful projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amanrai2004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="amanrai" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/AmanRai">
+    <img src="https://komarev.com/ghpvc/?username=AmanRai&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Rai" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+---
+
+- 🔭 I’m currently working on **Building RAG Pipelines and AI-powered Applications**
+
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and AI Agents**
+
+- 🛠️ I’m building projects using **Python, FastAPI, LangChain, LangGraph, PyTorch, Scikit-learn, PostgreSQL, and Vector Databases**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AmanRai)**
+
+- 💬 Ask me about **Python, Machine Learning, Data Science, Generative AI, RAG, FastAPI, and AI Engineering**
+
+- 📫 How to reach me **[amanrai2004@gmail.com](mailto:amanrai2004@gmail.com)**
+
+- ⚡ Fun fact **I'm passionate about learning new technologies and building impactful AI and data-driven projects**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/>
+  </a>
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://cdn.simpleicons.org/langgraph" width="40" height="40" alt="LangGraph"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+</p>
+
+---
+
+### 🤖 AI & Data Science
+
+**Machine Learning:**  
+Machine Learning • Deep Learning • Scikit-learn • PyTorch
+
+**Generative AI:**  
+LLMs • RAG • Embeddings • Vector Databases • AI Agents
+
+**AI Engineering:**  
+FastAPI • LangChain • LangGraph • REST APIs • Microservices
+
+**Cloud & Deployment:**  
+Docker • AWS • PostgreSQL • Redis
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanRai&show_icons=true&theme=tokyonight" alt="Aman Rai GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/AmanRai" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="mailto:amanrai2004@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+  </a>
 </p>
