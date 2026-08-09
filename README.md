@@ -55,17 +55,17 @@
 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangChain"/>
 </a>
 
 <!-- LangGraph -->
 <a href="https://www.langchain.com/langgraph" target="_blank">
-  <img src="https://cdn.simpleicons.org/langgraph" width="40" height="40" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="30" alt="LangGraph"/>
 </a>
 
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="OpenAI"/>
 </a>
 
 <!-- Hugging Face -->
