@@ -25,59 +25,92 @@
 - ⚡ Fun fact **I'm passionate about learning new technologies and building impactful AI and data-driven projects**
 
 ---
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
+
+  <!-- Programming -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
   </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/>
+
+  <!-- Data Science -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
   </a>
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://cdn.simpleicons.org/langgraph" width="40" height="40" alt="LangGraph"/>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  </a>
+
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
   </a>
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  </a>
+
+  <!-- AI / LLM -->
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/>
+  </a>
+
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://cdn.simpleicons.org/langgraph" width="40" height="40" alt="LangGraph"/>
+  </a>
+
+  <!-- Backend -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"/>
+  </a>
+
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  </a>
+
+  <!-- Database -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  </a>
+
+  <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS"/>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <!-- Cloud -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS"/>
+  </a>
+
+  <!-- Workflow / Data Engineering -->
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/>
+  </a>
+
 </p>
 
----
-
-### 🤖 AI & Data Science
-
-**Machine Learning:**  
-Machine Learning • Deep Learning • Scikit-learn • PyTorch
-
-**Generative AI:**  
-LLMs • RAG • Embeddings • Vector Databases • AI Agents
-
-**AI Engineering:**  
-FastAPI • LangChain • LangGraph • REST APIs • Microservices
-
-**Cloud & Deployment:**  
-Docker • AWS • PostgreSQL • Redis
-
----
 
 ### 📊 GitHub Stats
 
@@ -93,7 +126,7 @@ Docker • AWS • PostgreSQL • Redis
   <a href="https://github.com/AmanRai" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="mailto:amanrai2004@gmail.com" target="_blank">
+  <a href="mailto:amnrai2004@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
   </a>
 </p>
