@@ -16,7 +16,7 @@
 
 - 🛠️ I’m building projects using **Python, FastAPI, LangChain, LangGraph, PyTorch, Scikit-learn, PostgreSQL, and Vector Databases**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AmanRai)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Amanrai2004)**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Generative AI, RAG, FastAPI, and AI Engineering**
 
